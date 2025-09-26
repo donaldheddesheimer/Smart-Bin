@@ -1,0 +1,30 @@
+# Minimal requirements for Smart Bin - Compatible with latest versions
+# Core ML Framework
+tensorflow>=2.16.0
+numpy>=1.21.0,<2.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+Pillow>=9.0.0
+
+# Data Science
+pandas>=1.5.0
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.64.0
+
+# Development (Optional - install separately if needed)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+
+# API Development (Optional - install separately if needed)
+# flask>=2.2.0
+# fastapi>=0.95.0
+
+# Jupyter (Optional - install separately if needed) 
+# jupyter>=1.0.0
+# notebook>=6.5.0
