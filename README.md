@@ -40,6 +40,16 @@
 | **Plastic** | 0.94 | 0.92 | 0.93 | 482 | ✅ Yes |
 | **Trash** | 0.91 | 0.88 | 0.89 | 137 | ❌ No |
 
+## Some correct predictions:
+
+![image](https://github.com/donaldheddesheimer/Smart-Bin/assets/119540065/3fef2f0c-2615-40f1-979f-e52da3c9808d)
+![image](https://github.com/donaldheddesheimer/Smart-Bin/assets/119540065/08139702-da74-44da-844f-22e00ac0c6f8)
+
+
+## Some incorrect predictions:
+
+![image](https://github.com/donaldheddesheimer/Smart-Bin/assets/119540065/e4d0bd40-bf9a-405a-bfef-9d0c401c85d8)
+
 ## 🏗️ Enhanced Architecture
 
 ### ResNet50 Model Configuration
