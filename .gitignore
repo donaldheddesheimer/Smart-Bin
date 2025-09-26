@@ -1,3 +1,4 @@
 src/data/*
 src/Garbage-classification/*
 src/models/results/*
+.idea
