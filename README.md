@@ -6,6 +6,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Accuracy](https://img.shields.io/badge/Accuracy-95%25-brightgreen.svg)]()
 
+![image](https://github.com/donaldheddesheimer/Smart-Bin/assets/119540065/cdc5091f-25ce-4854-8364-98309df95964)
+
 ## 🎯 Project Overview
 
 **Smart Bin** is an advanced intelligent waste classification system that leverages state-of-the-art deep learning with **ResNet50** architecture to automatically categorize waste materials into 6 distinct categories with exceptional accuracy. This production-ready system represents a significant advancement in environmental AI technology.
